@@ -1,0 +1,73 @@
+.formsubmit{
+    width: 300px; 
+    color:#f88108;
+    border: 0;
+    background: none;
+    box-shadow: none;
+    border-radius: 2px;
+    padding:15px;
+    font-weight: bold;
+}
+
+.resultstitle{
+    color:#f88108;
+    font-size: 5vh;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    padding-top: 20px;
+}
+
+.caltitle{
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: 800; 
+    color: #ed3a8d; 
+    font-size: 16px; 
+    padding-right:20px;
+
+}
+
+.formsubmit{
+    width: 300px; 
+    color:#f88108;
+    border: 0;
+    background: none;
+    box-shadow: none;
+    border-radius: 0px;
+    padding:15px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3vh;
+}
+
+.formsubmit:hover{
+    background-color:rgb(211, 211, 211);
+    border: 1;
+    border-radius: 10px;
+    padding:15px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.resultstitle2{
+    color:#f88108;
+    font-size: 2.5vh;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800px;
+    padding-top: 20px;
+}
+
+.resultstitle3{
+    color:#f88108;
+    font-size: 2vh;
+    font-family: 'Proxima Nova', Times, serif;
+    font-weight: 800px;
+    padding-top: 20px;
+}
+
+.resultstitle4{
+    color:#f88108;
+    font-size: 5vh;
+    font-family: 'lobster', Times, serif;
+    font-weight: 800px;
+    padding-top: 20px;
+}

@@ -1,0 +1,197 @@
+body{
+    background:url(../assets/flames.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#cssnavbar{
+    background-color: #252766;
+    opacity: 0.9;
+}
+#csstitle{
+    font-family: 'lobster', Times, serif;
+    font-weight: 800;
+    color: #f88108;
+    position: center;
+    font-size: 5vw;
+    text-decoration: none;
+    
+}
+#rightside{
+    position: absolute;
+    right: 20px;
+    
+}
+
+#choices{
+    padding-left: 20px;
+    padding-right: 20px;
+    color:#f88108;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    font-size: 2vw;
+}
+
+#choices:hover{
+    background-color: #000000;
+}
+
+#regbutton{
+    padding-left: 20px;
+    padding-right: 20px;
+    color:#f88108;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#regbutton:hover{
+    background-color: #2A97D3;
+}
+
+.registerFormBar{
+    width: 40%;
+    height: 15%;
+    background: #6330b3;
+    border-radius: 35px;
+    position: relative;
+    right: 25px;
+    bottom: 0;
+    opacity: 0.9;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.registerForm{
+    opacity: 1;
+    padding-top: 20px;
+}
+
+.registerFormInput{
+    width: 55vh;
+    display: block;
+    color: #f88108;
+    padding:5px;
+}
+
+.registerSubmitForm{
+    width: 300px; 
+    color:#f88108;
+    border: 0;
+    background: none;
+    box-shadow: none;
+    border-radius: 0px;
+    padding:15px;
+    font-weight: bold;
+}
+
+.registerSubmitForm:hover{
+    background-color:rgb(211, 211, 211);
+    border: 1;
+    border-radius: 10px;
+    padding:15px;
+    font-weight: bold;
+}
+
+.registerFormTitle{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color: #f88108;
+    padding-top: 5%;
+    padding-right: 1%;
+}
+
+.prospectMain{
+    padding-top:10vw;
+}
+
+.prospectTable{
+    color: white;
+    opacity: 0.9;
+    align-items: center;
+    background: #f88108;
+}
+
+.prospectForm{
+    background: #FFFFFF;
+    opacity: 0.9;
+    margin-top: 20%, 35%, 40%, 15%;
+}
+
+.resultsBar {
+    opacity: 0.9; 
+    width: 60%; 
+    height: 100%; 
+    background-color: #5c2ba1; 
+    border-radius: 35px;
+}
+
+.matchBar {
+    opacity: 0.9;
+     width: 60%; 
+     height: 110%; 
+     background-color: #5c2ba1; 
+     border-radius: 35px;
+}
+
+.subTitle{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color: #f88108;
+}
+.homeClass h1{
+    color: #e49d13;
+    font-family: "Great Vibes", cursive;
+    font-size: 100px;
+    line-height: 160px;
+    font-weight: normal;
+    margin-bottom: 0px;
+    margin-top: 120px;
+    text-align: center;
+    text-shadow: 0 10px 5px #8e26a6;
+}
+
+.container {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    color: black;
+  }
+
+.container thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.container th,
+.container td {
+    padding: 12px 15px;
+}
+
+.container tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.container tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.container tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+.container tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+
+.dropboxClass {
+    font-family: "Times New Roman";
+    font-size: 3vh;
+    width: 50%;
+    height: 20%;
+}
+
